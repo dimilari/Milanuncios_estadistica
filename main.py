@@ -9,7 +9,8 @@ town = ['malaga', 'torremolinos']  # ciudades para observar
 prises = {600: 699, 700: 799, 800: 899, 900: 1000}
 
 HOST = 'https://www.milanuncios.com/'
-URL = 'https://www.milanuncios.com/alquiler-de-pisos-en-malaga-malaga/?fromSearch=1&desde=700&hasta=799&dormd=3&dormh=3&banosd=2&banosh=2'
+URL = 'https://www.milanuncios.com/alquiler-de-pisos-en-malaga-malaga/?fromSearch\
+       =1&desde=700&hasta=799&dormd=3&dormh=3&banosd=2&banosh=2'
 HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
