@@ -38,7 +38,6 @@ Encabezados de columna de archivo Estadistica.xlsm:
 Malaga(3d,2b) == Malaga(3 dormitorios, 2 baños)
 600-699 == rango de alquiler mensual en euros
 Malaga(4d) == Malaga(4 dormitorios)
-Fecha == дата
 
 ********************************************************
 
