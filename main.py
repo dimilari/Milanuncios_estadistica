@@ -26,7 +26,7 @@ def get_content(text_of_page):
     soup = BeautifulSoup(text_of_page, 'html.parser')
     items = str(soup.find('div', style="margin-bottom:4px; text-align: center; clear:both"))
     count = ''
-    for i in items[231:237]:
+    for i in items[192:196]:
         if i.isdigit():
             count += i
     if count == '':
