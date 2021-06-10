@@ -2,7 +2,7 @@
 
 English
 			
-The program has been tested on Windows 10 Pro, version 1809.
+The program has been tested on Windows 10 Pro 64 bit, version 1809.
 The milanuncios.com website must be logged in with a Spanish IP address.
 The program is designed to daily collect data from the advertisements site milanuncios.com
 The data is entered into the Estadistica.xlsm file, which contains a macro that renders the page when it is opened.
@@ -23,7 +23,7 @@ Fecha == date
 
 Spanish
 
-El programa ha sido probado en Windows 10 Pro, versión 1809.
+El programa ha sido probado en Windows 10 Pro 64 bit, versión 1809.
 El sitio web milanuncios.com debe iniciar sesión con una dirección IP española.
 El programa está diseñado para recopilar datos diariamente del sitio de anuncios milanuncios.com
 Los datos se ingresan en el archivo Estadistica.xlsm, que contiene una macro que muestra la página cuando se abre.
@@ -43,7 +43,7 @@ Malaga(4d) == Malaga(4 dormitorios)
 
 Russian
 
-Работа программы проверена на ос Windows 10 Pro версия 1809.
+Работа программы проверена на ос Windows 10 Pro 64 bit версия 1809.
 Вход на сайт milanuncios.com должен осуществляться с испанского IP адреса.
 Программа предназначена для ежедневного сбора данных с сайта рекламных объявлений milanuncios.com
 Данные заносятся в файл Estadistica.xlsm, в котором присутствует макрос, выполняющий визуализацию страницы при её открытии.
