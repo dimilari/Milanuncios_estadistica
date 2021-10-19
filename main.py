@@ -27,9 +27,9 @@ def get_html(url, params=None):
 # функция выбирает из заданного содержимого страницы url необходимые данные
 def get_content(text_of_page):
     soup = BeautifulSoup(text_of_page, 'html.parser')
-    items = str(soup.find('div', style="margin-bottom:4px; text-align: center; clear:both"))
+    items = str(soup.find('span', style="text-align:left;font-weight:400"))
     count = ''
-    for i in items[192:196]:
+    for i in items[108:134]:
         if i.isdigit():
             count += i
     if count == '':
